@@ -1,0 +1,15 @@
+{
+    "spec": "1.0",
+    "name": "Test Picasso Repo",
+    "description": "Test Picasso Repo",
+    "packages": [
+        {
+            "name": "test",
+            "bundleid": "net.sourceloc.testpicassopackage",
+            "author": "Sourcelocation",
+            "version": "1.0",
+            "icon": "icons/test.png",
+            "path": "packages/net.sourceloc.testpicassopackage.picasso"
+        }
+    ]
+}
