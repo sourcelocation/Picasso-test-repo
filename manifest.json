@@ -1,16 +1,16 @@
 {
     "spec": "1.0",
-    "name": "Test Picasso Repo",
-    "description": "Test Picasso Repo",
+    "name": "Picasso Essentials Beta",
+    "description": "Provides early tweak releases before they come out officially.",
     "icon": "test.png",
     "packages": [
         {
-            "name": "test",
-            "bundleid": "net.sourceloc.testpicassopackage",
-            "author": "Sourcelocation",
+            "name": "MDM Toolbox",
+            "bundleid": "net.sourceloc.mdmtoolbox",
+            "author": "Picasso Team",
             "version": "1.0",
             "icon": "icons/test.png",
-            "path": "packages/net.sourceloc.testpicassopackage.picasso"
-        }
+            "path": "packages/net.sourceloc.mdmtoolbox.picasso"
+        },
     ]
 }
