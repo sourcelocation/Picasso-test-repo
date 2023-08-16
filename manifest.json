@@ -2,14 +2,14 @@
     "spec": "1.0",
     "name": "Picasso Essentials Beta",
     "description": "Provides early tweak releases before they come out officially.",
-    "icon": "test.png",
+    "icon": "repo.png",
     "packages": [
         {
             "name": "MDM Toolbox",
             "bundleid": "net.sourceloc.mdmtoolbox",
             "author": "Picasso Team",
             "version": "1.0",
-            "icon": "icons/test.png",
+            "icon": "icons/MDM.png",
             "path": "packages/net.sourceloc.mdmtoolbox.picasso"
         },
     ]
