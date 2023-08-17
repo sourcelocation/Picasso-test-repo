@@ -12,5 +12,13 @@
             "icon": "icons/MDM.png",
             "path": "packages/net.sourceloc.mdmtoolbox.picasso"
         },
+        {
+            "name": "Accent Color",
+            "bundleid": "net.sourceloc.accentcolor",
+            "author": "Picasso Team",
+            "version": "1.0",
+            "icon": "icons/AccentColor.png",
+            "path": "packages/net.sourceloc.accentcolor.picasso"
+        },
     ]
 }
