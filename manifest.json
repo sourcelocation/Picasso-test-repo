@@ -8,6 +8,7 @@
             "name": "MDM Toolbox",
             "bundleid": "net.sourceloc.mdmtoolbox",
             "author": "Picasso Team",
+            "description": "Warning: This tweak is in **BETA**. Picasso Team is not liable for any damages to your device.\n\nToolbox for MDM.",
             "version": "1.0",
             "icon": "icons/MDM.png",
             "path": "packages/net.sourceloc.mdmtoolbox.picasso"
@@ -16,6 +17,7 @@
             "name": "Accent Color",
             "bundleid": "net.sourceloc.accentcolor",
             "author": "Picasso Team",
+            "description": "Warning: This tweak is in **BETA**. Picasso Team is not liable for any damages to your device.\n\nChanges your accent color systemwide!",
             "version": "1.0",
             "icon": "icons/AccentColor.png",
             "path": "packages/net.sourceloc.accentcolor.picasso"
