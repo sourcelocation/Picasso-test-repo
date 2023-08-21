@@ -1,0 +1,10 @@
+{
+  "preferences" : [
+    {
+      "valueType" : "color",
+      "key" : "color",
+      "title" : "Color",
+      "description" : "Changes color of this UI element to the specified color. Supports opacity."
+    }
+  ]
+}

@@ -8,17 +8,17 @@
             "name": "MDM Toolbox",
             "bundleid": "net.sourceloc.mdmtoolbox",
             "author": "Picasso Team",
-            "version": "1.0",
+            "version": "1.1",
             "icon": "icons/MDM.png",
             "path": "packages/net.sourceloc.mdmtoolbox.picasso"
         },
         {
             "name": "Accent Color",
-            "bundleid": "net.sourceloc.accentcolor",
+            "bundleid": "net.sourceloc.accent",
             "author": "Picasso Team",
-            "version": "1.0",
+            "version": "1.1",
             "icon": "icons/AccentColor.png",
-            "path": "packages/net.sourceloc.accentcolor.picasso"
+            "path": "packages/net.sourceloc.accent.picasso"
         },
     ]
 }
