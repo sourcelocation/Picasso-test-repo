@@ -20,5 +20,16 @@
             "icon": "icons/AccentColor.png",
             "path": "packages/net.sourceloc.accent.picasso"
         },
+        {
+          "name": "Hide Home Bar",
+          "bundleid": "ca.bomberfish.hidehomebar",
+          "author": "Picasso Team",
+          "description": "Hides Home Bar (white line) on iPhone X devices and later.",
+          "version": "1.0",
+          "icon": "Icons/HideHomeBar.png",
+          "path": "Tweaks/ca.bomberfish.hidehomebar.picasso",
+          "minPicassoVersion": "2.0",
+          "minPicassoBuild": "5"
+        }
     ]
 }
