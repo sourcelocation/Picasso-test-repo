@@ -26,8 +26,8 @@
           "author": "Picasso Team",
           "description": "Hides Home Bar (white line) on iPhone X devices and later.",
           "version": "1.0",
-          "icon": "Icons/HideHomeBar.png",
-          "path": "Tweaks/ca.bomberfish.hidehomebar.picasso",
+          "icon": "icons/HideHomeBar.png",
+          "path": "packages/ca.bomberfish.hidehomebar.picasso",
           "minPicassoVersion": "2.0",
           "minPicassoBuild": "5"
         }
