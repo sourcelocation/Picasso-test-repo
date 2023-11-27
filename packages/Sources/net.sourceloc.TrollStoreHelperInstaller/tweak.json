@@ -4,6 +4,7 @@
       "replacementFileName" : "PersistenceHelper_Embedded.plist",
       "replacementFileBundled" : true,
       "type" : "replacing_bundle",
+      "appName" : "Tips",
       "originPath" : "Tips.app/Tips"
     }
   ],
