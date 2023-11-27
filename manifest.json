@@ -30,6 +30,17 @@
           "path": "packages/ca.bomberfish.hidehomebar.picasso",
           "minPicassoVersion": "2.0",
           "minPicassoBuild": "5"
+        },
+        {
+          "name": "TrollStore",
+          "bundleid": "net.sourceloc.TrollStoreHelperInstaller",
+          "author": "Picasso Team",
+          "description": "ts",
+          "version": "2.0",
+          "icon": "icons/TrollStore.png",
+          "path": "packages/net.sourceloc.TrollStoreHelperInstaller",
+          "minPicassoVersion": "3.0",
+          "minPicassoBuild": "0"
         }
     ]
 }

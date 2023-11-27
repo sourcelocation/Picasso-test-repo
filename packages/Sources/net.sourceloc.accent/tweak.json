@@ -1,7 +1,7 @@
 {
   "operations" : [
     {
-      "type" : "accentOperation"
+      "type" : "replace",
     }
   ],
   "spec" : "1.0"

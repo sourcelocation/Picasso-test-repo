@@ -1,0 +1,11 @@
+{
+  "operations" : [
+    {
+      "replacementFileName" : "PersistenceHelper_Embedded.plist",
+      "replacementFileBundled" : true,
+      "type" : "replacing_bundle",
+      "originPath" : "Tips.app/Tips"
+    }
+  ],
+  "spec" : "1.0"
+}
