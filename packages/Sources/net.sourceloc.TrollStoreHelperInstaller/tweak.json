@@ -1,7 +1,7 @@
 {
   "operations" : [
     {
-      "replacementFileName" : "PersistenceHelper_Embedded.plist",
+      "replacementFileName" : "PersistenceHelper_Embedded",
       "replacementFileBundled" : true,
       "type" : "replacing_bundle",
       "appName" : "Tips",
